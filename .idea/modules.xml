@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Playground.iml" filepath="$PROJECT_DIR$/Playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotations/com.ns.annotations.iml" filepath="$PROJECT_DIR$/.idea/modules/annotations/com.ns.annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotations/com.ns.annotations.main.iml" filepath="$PROJECT_DIR$/.idea/modules/annotations/com.ns.annotations.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotations/com.ns.annotations.test.iml" filepath="$PROJECT_DIR$/.idea/modules/annotations/com.ns.annotations.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij-plugin/com.ns.intellij-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij-plugin/com.ns.intellij-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij-plugin/com.ns.intellij-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij-plugin/com.ns.intellij-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij-plugin/com.ns.intellij-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij-plugin/com.ns.intellij-plugin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processor/com.ns.processor.iml" filepath="$PROJECT_DIR$/.idea/modules/processor/com.ns.processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processor/com.ns.processor.main.iml" filepath="$PROJECT_DIR$/.idea/modules/processor/com.ns.processor.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processor/com.ns.processor.test.iml" filepath="$PROJECT_DIR$/.idea/modules/processor/com.ns.processor.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runner/com.ns.runner.iml" filepath="$PROJECT_DIR$/.idea/modules/runner/com.ns.runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runner/com.ns.runner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/runner/com.ns.runner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runner/com.ns.runner.test.iml" filepath="$PROJECT_DIR$/.idea/modules/runner/com.ns.runner.test.iml" />
+    </modules>
+  </component>
+</project>

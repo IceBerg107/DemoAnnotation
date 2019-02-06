@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default">
+        <sourceOutputDir name="build/generated/" />
+        <sourceTestOutputDir name="build/generated_tests/" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.ns.annotations.main" target="1.8" />
+      <module name="com.ns.annotations.test" target="1.8" />
+      <module name="com.ns.compilerplugin.main" target="1.8" />
+      <module name="com.ns.compilerplugin.test" target="1.8" />
+      <module name="com.ns.intellij-plugin.main" target="1.8" />
+      <module name="com.ns.intellij-plugin.test" target="1.8" />
+      <module name="com.ns.intellijplugin.main" target="1.8" />
+      <module name="com.ns.intellijplugin.test" target="1.8" />
+      <module name="com.ns.processor.main" target="1.8" />
+      <module name="com.ns.processor.test" target="1.8" />
+      <module name="com.ns.runner.main" target="1.8" />
+      <module name="com.ns.runner.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
